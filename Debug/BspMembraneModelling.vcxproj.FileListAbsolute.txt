@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Thesis-s348248\MScThesis\Code-31-07\VS-code-with-functions\BspMembraneModelling\Debug\BspMembraneModelling.exe
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\Debug\BspMembraneModelling.exe

@@ -1,0 +1,35 @@
+﻿  BspMembraneSurf.cpp
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(14,7): warning C4101: 'i': unreferenced local variable
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(38,10): warning C4101: 'k': unreferenced local variable
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(38,7): warning C4101: 'j': unreferenced local variable
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(69,7): warning C4101: 'i': unreferenced local variable
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(102,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(156,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(892,7): warning C4101: 'j': unreferenced local variable
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(1295,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(1296,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\BspMembraneSurf.cpp(139,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\BspMembraneSurf.cpp(140,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\BspMembraneSurf.cpp(146,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\BspMembraneSurf.cpp(147,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\BspMembraneSurf.cpp(225,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\BspMembraneSurf.cpp(345,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(415,10): warning C4101: 'j': unreferenced local variable
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\BspMembraneSurf.cpp(449): message : see reference to function template instantiation 'MMatrix<Point1D> Math::MatrixFromVector<T>(const Vector<T> &,int) const' being compiled
+          with
+          [
+              T=Point1D
+          ]
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(415,7): warning C4101: 'i': unreferenced local variable
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(1680,27): warning C4101: 'it': unreferenced local variable
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\mathfunctions.h(1595): message : see reference to function template instantiation 'void Math::pivot<T>(MMatrix<double> &,Vector<T> &,int,int,Vector<int> &)' being compiled
+          with
+          [
+              T=Point1D
+          ]
+C:\Users\User\Documents\CppProjects\BspMembraneModelling\SourceFiles\BspMembraneSurf.cpp(435): message : see reference to function template instantiation 'Vector<T> Math::gauss<T>(MMatrix<T> &,Vector<T> &,int)' being compiled
+          with
+          [
+              T=Point1D
+          ]
+  BspMembraneModelling.vcxproj -> C:\Users\User\Documents\CppProjects\BspMembraneModelling\Debug\BspMembraneModelling.exe
